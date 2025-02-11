@@ -70,7 +70,7 @@ AppCleanse is a lightweight and user-friendly tool that helps clear system cache
 
 ## Screenshot
 
-![AppCleanse Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![AppCleanse Screenshot](screenshot.WEBP) <!-- Add a screenshot if available -->
 
 ## Contributing
 
